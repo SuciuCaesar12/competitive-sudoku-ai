@@ -1,0 +1,436 @@
+{
+    "games": [
+        {
+            "player1": "team17_A2",
+            "player2": "team17_A1",
+            "board": "boards/board-2x3.txt",
+            "time": 1,
+            "result": "team17_A2 wins",
+            "score1": 1,
+            "score2": 0
+        },
+        {
+            "player1": "team17_A1",
+            "player2": "team17_A2",
+            "board": "boards/board-2x3.txt",
+            "time": 1,
+            "result": "team17_A2 wins",
+            "score1": 0,
+            "score2": 1
+        },
+        {
+            "player1": "team17_A2",
+            "player2": "team17_A1",
+            "board": "boards/board-2x3.txt",
+            "time": 1,
+            "result": "team17_A1 wins",
+            "score1": 0,
+            "score2": 1
+        },
+        {
+            "player1": "team17_A1",
+            "player2": "team17_A2",
+            "board": "boards/board-2x3.txt",
+            "time": 1,
+            "result": "team17_A2 wins",
+            "score1": 0,
+            "score2": 1
+        },
+        {
+            "player1": "team17_A2",
+            "player2": "team17_A1",
+            "board": "boards/board-2x3.txt",
+            "time": 2,
+            "result": "team17_A1 wins",
+            "score1": 0,
+            "score2": 1
+        },
+        {
+            "player1": "team17_A1",
+            "player2": "team17_A2",
+            "board": "boards/board-2x3.txt",
+            "time": 2,
+            "result": "team17_A1 wins",
+            "score1": 1,
+            "score2": 0
+        },
+        {
+            "player1": "team17_A2",
+            "player2": "team17_A1",
+            "board": "boards/board-2x3.txt",
+            "time": 2,
+            "result": "Draw",
+            "score1": 0.5,
+            "score2": 0.5
+        },
+        {
+            "player1": "team17_A1",
+            "player2": "team17_A2",
+            "board": "boards/board-2x3.txt",
+            "time": 2,
+            "result": "team17_A1 wins",
+            "score1": 1,
+            "score2": 0
+        },
+        {
+            "player1": "team17_A2",
+            "player2": "team17_A1",
+            "board": "boards/board-2x3.txt",
+            "time": 3,
+            "result": "team17_A1 wins",
+            "score1": 0,
+            "score2": 1
+        },
+        {
+            "player1": "team17_A1",
+            "player2": "team17_A2",
+            "board": "boards/board-2x3.txt",
+            "time": 3,
+            "result": "team17_A1 wins",
+            "score1": 1,
+            "score2": 0
+        },
+        {
+            "player1": "team17_A2",
+            "player2": "team17_A1",
+            "board": "boards/board-2x3.txt",
+            "time": 3,
+            "result": "team17_A1 wins",
+            "score1": 0,
+            "score2": 1
+        },
+        {
+            "player1": "team17_A1",
+            "player2": "team17_A2",
+            "board": "boards/board-2x3.txt",
+            "time": 3,
+            "result": "team17_A1 wins",
+            "score1": 1,
+            "score2": 0
+        },
+        {
+            "player1": "team17_A2",
+            "player2": "team17_A1",
+            "board": "boards/empty-3x3.txt",
+            "time": 1,
+            "result": "team17_A1 wins",
+            "score1": 0,
+            "score2": 1
+        },
+        {
+            "player1": "team17_A1",
+            "player2": "team17_A2",
+            "board": "boards/empty-3x3.txt",
+            "time": 1,
+            "result": "team17_A1 wins",
+            "score1": 1,
+            "score2": 0
+        },
+        {
+            "player1": "team17_A2",
+            "player2": "team17_A1",
+            "board": "boards/empty-3x3.txt",
+            "time": 1,
+            "result": "team17_A2 wins",
+            "score1": 1,
+            "score2": 0
+        },
+        {
+            "player1": "team17_A1",
+            "player2": "team17_A2",
+            "board": "boards/empty-3x3.txt",
+            "time": 1,
+            "result": "team17_A1 wins",
+            "score1": 1,
+            "score2": 0
+        },
+        {
+            "player1": "team17_A2",
+            "player2": "team17_A1",
+            "board": "boards/empty-3x3.txt",
+            "time": 2,
+            "result": "team17_A2 wins",
+            "score1": 1,
+            "score2": 0
+        },
+        {
+            "player1": "team17_A1",
+            "player2": "team17_A2",
+            "board": "boards/empty-3x3.txt",
+            "time": 2,
+            "result": "team17_A2 wins",
+            "score1": 0,
+            "score2": 1
+        },
+        {
+            "player1": "team17_A2",
+            "player2": "team17_A1",
+            "board": "boards/empty-3x3.txt",
+            "time": 2,
+            "result": "team17_A2 wins",
+            "score1": 1,
+            "score2": 0
+        },
+        {
+            "player1": "team17_A1",
+            "player2": "team17_A2",
+            "board": "boards/empty-3x3.txt",
+            "time": 2,
+            "result": "team17_A1 wins",
+            "score1": 1,
+            "score2": 0
+        },
+        {
+            "player1": "team17_A2",
+            "player2": "team17_A1",
+            "board": "boards/empty-3x3.txt",
+            "time": 3,
+            "result": "team17_A2 wins",
+            "score1": 1,
+            "score2": 0
+        },
+        {
+            "player1": "team17_A1",
+            "player2": "team17_A2",
+            "board": "boards/empty-3x3.txt",
+            "time": 3,
+            "result": "team17_A1 wins",
+            "score1": 1,
+            "score2": 0
+        },
+        {
+            "player1": "team17_A2",
+            "player2": "team17_A1",
+            "board": "boards/empty-3x3.txt",
+            "time": 3,
+            "result": "team17_A2 wins",
+            "score1": 1,
+            "score2": 0
+        },
+        {
+            "player1": "team17_A1",
+            "player2": "team17_A2",
+            "board": "boards/empty-3x3.txt",
+            "time": 3,
+            "result": "team17_A1 wins",
+            "score1": 1,
+            "score2": 0
+        },
+        {
+            "player1": "team17_A2",
+            "player2": "greedy_player",
+            "board": "boards/board-2x3.txt",
+            "time": 1,
+            "result": "greedy_player wins",
+            "score1": 0,
+            "score2": 1
+        },
+        {
+            "player1": "greedy_player",
+            "player2": "team17_A2",
+            "board": "boards/board-2x3.txt",
+            "time": 1,
+            "result": "team17_A2 wins",
+            "score1": 0,
+            "score2": 1
+        },
+        {
+            "player1": "team17_A2",
+            "player2": "greedy_player",
+            "board": "boards/board-2x3.txt",
+            "time": 1,
+            "result": "team17_A2 wins",
+            "score1": 1,
+            "score2": 0
+        },
+        {
+            "player1": "greedy_player",
+            "player2": "team17_A2",
+            "board": "boards/board-2x3.txt",
+            "time": 1,
+            "result": "team17_A2 wins",
+            "score1": 0,
+            "score2": 1
+        },
+        {
+            "player1": "team17_A2",
+            "player2": "greedy_player",
+            "board": "boards/board-2x3.txt",
+            "time": 2,
+            "result": "greedy_player wins",
+            "score1": 0,
+            "score2": 1
+        },
+        {
+            "player1": "greedy_player",
+            "player2": "team17_A2",
+            "board": "boards/board-2x3.txt",
+            "time": 2,
+            "result": "greedy_player wins",
+            "score1": 1,
+            "score2": 0
+        },
+        {
+            "player1": "team17_A2",
+            "player2": "greedy_player",
+            "board": "boards/board-2x3.txt",
+            "time": 2,
+            "result": "team17_A2 wins",
+            "score1": 1,
+            "score2": 0
+        },
+        {
+            "player1": "greedy_player",
+            "player2": "team17_A2",
+            "board": "boards/board-2x3.txt",
+            "time": 2,
+            "result": "team17_A2 wins",
+            "score1": 0,
+            "score2": 1
+        },
+        {
+            "player1": "team17_A2",
+            "player2": "greedy_player",
+            "board": "boards/board-2x3.txt",
+            "time": 3,
+            "result": "team17_A2 wins",
+            "score1": 1,
+            "score2": 0
+        },
+        {
+            "player1": "greedy_player",
+            "player2": "team17_A2",
+            "board": "boards/board-2x3.txt",
+            "time": 3,
+            "result": "greedy_player wins",
+            "score1": 1,
+            "score2": 0
+        },
+        {
+            "player1": "team17_A2",
+            "player2": "greedy_player",
+            "board": "boards/board-2x3.txt",
+            "time": 3,
+            "result": "greedy_player wins",
+            "score1": 0,
+            "score2": 1
+        },
+        {
+            "player1": "greedy_player",
+            "player2": "team17_A2",
+            "board": "boards/board-2x3.txt",
+            "time": 3,
+            "result": "team17_A2 wins",
+            "score1": 0,
+            "score2": 1
+        },
+        {
+            "player1": "team17_A2",
+            "player2": "greedy_player",
+            "board": "boards/empty-3x3.txt",
+            "time": 1,
+            "result": "team17_A2 wins",
+            "score1": 1,
+            "score2": 0
+        },
+        {
+            "player1": "greedy_player",
+            "player2": "team17_A2",
+            "board": "boards/empty-3x3.txt",
+            "time": 1,
+            "result": "team17_A2 wins",
+            "score1": 0,
+            "score2": 1
+        },
+        {
+            "player1": "team17_A2",
+            "player2": "greedy_player",
+            "board": "boards/empty-3x3.txt",
+            "time": 1,
+            "result": "team17_A2 wins",
+            "score1": 1,
+            "score2": 0
+        },
+        {
+            "player1": "greedy_player",
+            "player2": "team17_A2",
+            "board": "boards/empty-3x3.txt",
+            "time": 1,
+            "result": "greedy_player wins",
+            "score1": 1,
+            "score2": 0
+        },
+        {
+            "player1": "team17_A2",
+            "player2": "greedy_player",
+            "board": "boards/empty-3x3.txt",
+            "time": 2,
+            "result": "greedy_player wins",
+            "score1": 0,
+            "score2": 1
+        },
+        {
+            "player1": "greedy_player",
+            "player2": "team17_A2",
+            "board": "boards/empty-3x3.txt",
+            "time": 2,
+            "result": "greedy_player wins",
+            "score1": 1,
+            "score2": 0
+        },
+        {
+            "player1": "team17_A2",
+            "player2": "greedy_player",
+            "board": "boards/empty-3x3.txt",
+            "time": 2,
+            "result": "greedy_player wins",
+            "score1": 0,
+            "score2": 1
+        },
+        {
+            "player1": "greedy_player",
+            "player2": "team17_A2",
+            "board": "boards/empty-3x3.txt",
+            "time": 2,
+            "result": "team17_A2 wins",
+            "score1": 0,
+            "score2": 1
+        },
+        {
+            "player1": "team17_A2",
+            "player2": "greedy_player",
+            "board": "boards/empty-3x3.txt",
+            "time": 3,
+            "result": "greedy_player wins",
+            "score1": 0,
+            "score2": 1
+        },
+        {
+            "player1": "greedy_player",
+            "player2": "team17_A2",
+            "board": "boards/empty-3x3.txt",
+            "time": 3,
+            "result": "greedy_player wins",
+            "score1": 1,
+            "score2": 0
+        },
+        {
+            "player1": "team17_A2",
+            "player2": "greedy_player",
+            "board": "boards/empty-3x3.txt",
+            "time": 3,
+            "result": "greedy_player wins",
+            "score1": 0,
+            "score2": 1
+        },
+        {
+            "player1": "greedy_player",
+            "player2": "team17_A2",
+            "board": "boards/empty-3x3.txt",
+            "time": 3,
+            "result": "team17_A2 wins",
+            "score1": 0,
+            "score2": 1
+        }
+    ]
+}
